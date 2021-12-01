@@ -1,12 +1,23 @@
 // import logo from './logo.svg';
 import './App.css';
 
+// Router
+// import {BrowserRouter, Routes, Route, Link} from "react-router-dom";
+import {BrowserRouter, Routes, Route} from "react-router-dom";
+import MainPage from './pages/mainpage.jsx';
+
+
+
 function App() {
   return (
-    <div className="App text-6xl">
-      <div id="here">Here</div>
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<MainPage />} />
+        {/* <Route path="users/*" element={<Users />} /> */}
+      </Routes>
+    </BrowserRouter>
   );
 }
 
 export default App;
+
