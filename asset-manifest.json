@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/newjambox1/static/css/main.8c8b27cf.chunk.css",
+    "main.css": "/newjambox1/static/css/main.1aa4c5df.chunk.css",
     "main.js": "/newjambox1/static/js/main.52c31b0b.chunk.js",
     "main.js.map": "/newjambox1/static/js/main.52c31b0b.chunk.js.map",
     "runtime-main.js": "/newjambox1/static/js/runtime-main.8b275c37.js",
@@ -10,14 +10,14 @@
     "static/js/3.9884cd10.chunk.js": "/newjambox1/static/js/3.9884cd10.chunk.js",
     "static/js/3.9884cd10.chunk.js.map": "/newjambox1/static/js/3.9884cd10.chunk.js.map",
     "index.html": "/newjambox1/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/newjambox1/static/css/main.8c8b27cf.chunk.css.map",
+    "static/css/main.1aa4c5df.chunk.css.map": "/newjambox1/static/css/main.1aa4c5df.chunk.css.map",
     "static/js/2.92304943.chunk.js.LICENSE.txt": "/newjambox1/static/js/2.92304943.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/newjambox1/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8b275c37.js",
     "static/js/2.92304943.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
+    "static/css/main.1aa4c5df.chunk.css",
     "static/js/main.52c31b0b.chunk.js"
   ]
 }
